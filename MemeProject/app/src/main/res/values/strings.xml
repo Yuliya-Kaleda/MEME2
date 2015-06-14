@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">MemeProject</string>
+    <string name="title_activity_main">MainActivity</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_edit_meme">EditMeme</string>
+    <string name="title_activity_edit_photo">EditPhoto</string>
+    <string name="meme">Meme-ify Me!</string>
+    <string name="welcome_message">Welcome to Meme-ify Me, the app that lets you create your own memes!</string>
+    <string name="take_photo">Take New Photo</string>
+</resources>
